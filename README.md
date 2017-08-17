@@ -1,4 +1,4 @@
-# TinyDC
+﻿# TinyDC
 一个简单的分布式计算框架，python搭建，支持调用外部程序执行计算。
 
 把一个大任务分割成若干个独立的子任务，分派给多个运算单元执行，最后合并子任务运算结果
@@ -73,4 +73,4 @@ Task2|Computing|300|C4|15:55
 Task3|Mergering|200|C2|15:50
 Task4|Failed|250|C5|15:52
 
-**CREAT BY 司虎虎 2017/08/16**
+**CREAT BY EStormLynn 2017/08/16**
